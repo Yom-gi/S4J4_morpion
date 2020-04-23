@@ -8,12 +8,12 @@ Ce programme reproduit un jeu de morpion virtuel, dont voici les principes:
  - A tour de rôle, chaque joueur décide de là où il souhaite mettre un symbole sur le plateau
  - La partie est terminée dès qu'un des 2 joueurs a réussi à aligner 3 symboles à la suite, comme selon l'exemple suivant:
  
-
+<!-- 
   X | O | X              X |   |   
  -----------            -----------
   O | X | O       ->       | X |          ->    Victoire!
  -----------            -----------
-  O | O | X                |   | X 
+  O | O | X                |   | X  -->
 
  
  Pour jouer, il suffit d'éxécuter le programme, de rentrer le nom des 2 utilisateurs, 
